@@ -1,0 +1,19 @@
+Records of your data files contain the following fields in the following sequence.
+ 
+The field named smoke must be a 16-bit integer  
+The field named eyes must be an 8-bit character  
+The field named sponge must be a 32-bit Boolean  
+The field named exchange must be a 32-bit Boolean  
+The field named balance must be an 8-bit Boolean  
+The field named clam must be a 16-bit Boolean  
+The field named summer must be a 64-bit unsigned integer  
+The field named desk must be a 16-bit integer  
+The field named girls must be a 32-bit unsigned integer  
+The field named pancake must be a 16-bit Boolean  
+The field named bit must be a fixed-length string of up to 7 characters (including one or more nulls)  
+The field named stitch must be a 64-bit floating point number  
+The field named peace must be an 8-bit integer  
+The field named insect must be a 64-bit integer  
+The field named owner must be a 64-bit floating point number  
+The field named sleep must be a 32-bit floating point number  
+The field named thought must be an 8-bit Boolean  

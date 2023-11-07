@@ -1,0 +1,20 @@
+
+Sorting order (in order of precedence):
+ 
+smoke in ascending order.  short int .
+bit in ascending order. char .
+summer in descending order. unsigned long int -- .
+owner in ascending order. double . 
+balance in ascending order. boolean8 .
+pancake in ascending order. boolean16 .
+eyes in ascending order. char .
+peace in ascending order. int8_t .
+exchange in ascending order. boolean32 .
+insect in descending order. long int -- . 
+desk in ascending order. short int .
+sleep in ascending order. float .
+thought in descending order. boolean8 -- .
+sponge in ascending order. boolean32 . 
+clam in descending order. boolean16 -- .
+stitch in descending order. double -- .
+girls in ascending order. unsigned int

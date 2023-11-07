@@ -1,0 +1,4 @@
+smoke, eyes, sponge, exchange, balance, clam, summer, desk, girls, pancake, bit, stitch, peace, insect, owner, sleep, thought
+4421, ?, 0, 1, 0, 0, 891, -6, 860, 0, trade, 0.000000, -1, 1395, 96.500000, 0.011719, 0
+64, #, 1, 1, 1, 0, 31596, 1, 509, 0, cause, 2.886308, 69, 1818, -16.937500, -0.169922, 1
+1008, s, 1, 0, 0, 0, 5839, -3, 1339, 1, plough, -0.000000, -20, 9, 227491.500000, 47711.859375, 0
